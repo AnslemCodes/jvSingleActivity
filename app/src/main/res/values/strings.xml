@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">jvSingleActivity</string>
+
+    <string name="name">NAME : Anslem Emeshindu</string>
+    <string name="Email">EMAIL : ansledozie@gmail.com</string>
+    <string name="SlackID">SLACK ID : UV2KC6R16</string>
+
+
+    <string name="Likes"> tech  \nRice \n cinemas \n housework \n cooking \n gym \n ice cream \nswimming  \nsports \n maths \n Dogs \nLibraries\nVintage stuffs/designs \nShoes\nTraveling\nAdventures\nA good sense of humor</string>
+
+
+
+    <string name="Dislikes">Being late\nNeedles\nLong queues\nLazy people\nMy favorite character killed in a book/movie\nGays\n bullies\n cheat\n okoro soup </string>
+
+
+
+    <string name="Hobbies"> football \n table tennis \n scrabble\n reading \n gym \nchess\n body building \n cycling \n reading \n martial arts \n volunteering\nmovie watching\ndancing\nboxing\nsurfing internet\n</string>
+
+</resources>
